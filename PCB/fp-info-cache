@@ -1,4 +1,4 @@
-20414698988591351
+20422937444145407
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56287,6 +56287,13 @@ MountingHole
 1
 0
 Keebio-Parts
+Potentiometer_Bourns_PTA2043_Single_Slide_2
+Bourns single-gang slide potentiometer, 20.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 20.0mm
+0
+7
+4
+Keebio-Parts
 QFN-44-1EP_7x7mm_Pitch0.5mm
 UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
 QFN 0.5
@@ -56383,7 +56390,7 @@ Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/p
 rotary encoder
 0
 7
-6
+5
 Keebio-Parts
 RotaryEncoder_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -56713,6 +56720,13 @@ breakaway-mousebites
 0
 0
 0
+Keebio-Parts
+planck-pcb-module
+
+
+0
+42
+42
 Keebio-Parts
 solder_jumper
 
@@ -80128,6 +80142,27 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
+SnapEDA Library
+QFN40P700X700X90-57N
+
+
+0
+57
+57
+SnapEDA Library
+QFN50P500X500X80-29N
+
+
+0
+29
+29
+SnapEDA Library
+SOIC127P1030X265-28N
+
+
+0
+28
+28
 SnapEDA Library
 XDCR_COM-09032
 

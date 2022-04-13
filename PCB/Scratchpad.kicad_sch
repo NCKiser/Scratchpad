@@ -1624,7 +1624,7 @@
     (property "Value" "I2C" (id 1) (at 156.9212 107.2766 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 156.21 105.41 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (id 2) (at 156.21 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 156.21 105.41 0)
@@ -2470,7 +2470,7 @@
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/2e4e5548-0c84-4d3e-a301-c17e153937b8"
-      (reference "J2") (unit 1) (value "I2C") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "I2C") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/d6691a51-8be0-424a-8ab6-9098936df2d1"
       (reference "J3") (unit 1) (value "MIDI IN") (footprint "Keebio-Parts:TRRS_Jack")
